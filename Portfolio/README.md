@@ -3,7 +3,7 @@
 > RTL 합성 → Manual ECO → Physical Design(RTL-to-GDSII) → Sign-off 검증까지 직접 수행한 프로젝트를
 > **발표 자료(PPT) 페이지 순서대로** 정리한 포트폴리오입니다.
 
-📧 your.email@example.com
+📧 lye717126@naver.com
 
 ---
 
