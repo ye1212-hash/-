@@ -796,6 +796,7 @@ Hold는 cell과 배선 비중에 따라 worst 코너가 경로마다 달라서 �
 | ICV Detailed 위반 | **0** (초기 340건대, 잔여는 waiver) |
 | LVS | **0** (Short · Open · Antenna 0) |
 | Formality | **119** points SUCCEEDED (DC ↔ PnR) |
+| LVT 비율 | **24.4%** (로직 셀 1557개 중 381개, 제약 25%) |
 | CTS skew | **0.13 ns** (목표 0.3 ns, sink 83) |
 | PT ECO | **3** cells (크기 / VT만 변경, buffer 추가 없음) |
 | Gate-level Sim | **PASS** |
