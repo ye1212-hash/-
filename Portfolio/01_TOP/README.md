@@ -252,7 +252,7 @@ Gate-level 시뮬레이션 파형도 RTL과 같은 결과를 보여, ECO로 수�
 
 ---
 
-## 2. Physical Design (ICC2)
+## 2. Part 2. Physical Design (ICC2)
 
 ### Slide 18 · Contents
 
